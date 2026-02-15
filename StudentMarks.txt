@@ -1,6 +1,0 @@
-5
-8439,Jake Hobbs,10,11,10,43
-2844,Emily Stone,18,17,19,80
-5520,Mark Johnson,12,15,14,55
-6651,Sarah Ahmed,20,20,19,90
-4122,Daniel Green,7,9,8,34
